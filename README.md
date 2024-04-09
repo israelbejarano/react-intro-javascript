@@ -1,6 +1,6 @@
 # Introduction to JavasCript
 
-This repo is a javascript introduction for React 
+This repo is a javascript introduction for React.
 
 # Getting Started with Create React App
 
