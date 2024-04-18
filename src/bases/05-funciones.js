@@ -12,8 +12,8 @@ const saludar3 = (nombre) => `Hola, ${nombre}`
 const saludar4 = () => `Hola Mundo`
 
 console.log(saludar('Juan'));
-console.log(saludar('Rita'));
-console.log(saludar('Pedro'));
+console.log(saludar2('Rita'));
+console.log(saludar3('Pedro'));
 console.log(saludar4());
 
 const getUser = () => ({
