@@ -15,3 +15,5 @@ const getImages = async() => {
         console.error(error);
     }
 }
+
+getImages();
